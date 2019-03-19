@@ -1,5 +1,3 @@
-# test1_testActivity
-这是关于验证活动生命周期的实验
 # 实验一
 学号：123012016072 
 姓名：陈琪
@@ -67,6 +65,7 @@ public class MainActivity extends AppCompatActivity {
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190317235127736.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZpdmljNw==,size_16,color_FFFFFF,t_70)
 
 **4、相应操作对应activity的生命周期**
+![在这里插入图片描述](https://img-blog.csdnimg.cn/20190319133612987.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZpdmljNw==,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190317235152308.jpg)
 ## 三、总结
 触发相应活动调用相应的回调函数中编写的操作
