@@ -55,17 +55,18 @@ public class MainActivity extends AppCompatActivity {
 }
 ```
 ### (2)结果截图：
-**1、主界面（主活动）：**
+**1、主界面（主活动）：**\
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190317234756487.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZpdmljNw==,size_16,color_FFFFFF,t_70)
 
-**2、半遮住活动**
+**2、半遮住活动**\
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190317235118505.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZpdmljNw==,size_16,color_FFFFFF,t_70)
 
-**3、退出活动，回到home界面**
+**3、退出活动，回到home界面**\
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190317235127736.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZpdmljNw==,size_16,color_FFFFFF,t_70)
 
-**4、相应操作对应activity的生命周期**
+**4、相应操作对应activity的生命周期**\
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190319133612987.jpg?x-oss-process=image/watermark,type_ZmFuZ3poZW5naGVpdGk,shadow_10,text_aHR0cHM6Ly9ibG9nLmNzZG4ubmV0L3ZpdmljNw==,size_16,color_FFFFFF,t_70)
 ![在这里插入图片描述](https://img-blog.csdnimg.cn/20190317235152308.jpg)
+
 ## 三、总结
 触发相应活动调用相应的回调函数中编写的操作
